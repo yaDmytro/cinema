@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-
+//Here would be covid code
 public class Main {
 
     private static Scanner user = new Scanner(System.in);
